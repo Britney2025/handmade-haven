@@ -1,0 +1,312 @@
+[
+    {
+        "id": "1",
+        "name": "Ruffled Hat",
+        "price": 800,
+        "category": "Hats",
+        "image": "images/earbuds.jpg",
+        "description": "Elegant to efforlessly elevate your fashion.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "2",
+        "name": "Scrunchies",
+        "price": 200,
+        "category": "Accessories",
+        "image": "images/earbuds.jpg",
+        "description": "Available in all colors, beautiful and 100% longlasting.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "3",
+        "name": "Bucket Hat",
+        "price": 600,
+        "category": "Hats",
+        "image": "images/earbuds.jpg",
+        "description": "Cool and fashionable, very ideal for summer.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "4",
+        "name": "Beanie",
+        "price": 500,
+        "category": "Hats",
+        "image": "images/earbuds.jpg",
+        "description": "High-quality, perfect for this cold season.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "5",
+        "name": "Scarf",
+        "price": 500,
+        "category": "Accessories",
+        "image": "images/earbuds.jpg",
+        "description": "Perfect in different designs to elevate your wardrobe this season.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "6",
+        "name": "Shrugs",
+        "price": 800,
+        "category": "Tops",
+        "image": "images/earbuds.jpg",
+        "description": "Perfect for layering and relevant for all occassions.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "7",
+        "name": "Tote Bags",
+        "price": 1200,
+        "category": "Bags",
+        "image": "images/earbuds.jpg",
+        "description": "High-quality, fashionable and stylish bags.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "8",
+        "name": "Crop Tops",
+        "price": 1000,
+        "category": "Tops",
+        "image": "images/earbuds.jpg",
+        "description": "Perfect blend od simplicity and style.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "9",
+        "name": "Sedona Striped Dress",
+        "price": 2800,
+        "category": "Dresses",
+        "image": "images/earbuds.jpg",
+        "description": "A show-stopping crochet mini dress with unique strappy details.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "10",
+        "name": "Bodycon Crochet Dress",
+        "price": 2500,
+        "category": "Dresses",
+        "image": "images/earbuds.jpg",
+        "description": "Ideal for both casual outings nad special occassions.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "11",
+        "name": "Back-pack",
+        "price": 2500,
+        "category": "Bags",
+        "image": "images/earbuds.jpg",
+        "description": "Ideal for schol, work or fashion and perfect for your outings.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "12",
+        "name": "Wall Hangings",
+        "price": 1500,
+        "category": "Home decor",
+        "image": "images/earbuds.jpg",
+        "description": "Good for adding romantic charm to any room.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "13",
+        "name": "Key Chains",
+        "price": 150,
+        "category": "Accessories",
+        "image": "images/earbuds.jpg",
+        "description": "Beautiful way to keep your keys safe.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "14",
+        "name": "Two-piece",
+        "price": 3500,
+        "category": "Wearables",
+        "image": "images/earbuds.jpg",
+        "description": "Elegant and unique, designed to enhance your style.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "15",
+        "name": "Flower Pants",
+        "price": 7000,
+        "category": "Bottoms",
+        "image": "images/earbuds.jpg",
+        "description": "Stretchy design ensures comfortable and flattering fit.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "16",
+        "name": "Crochet Shirts",
+        "price": 4000,
+        "category": "Tops",
+        "image": "images/earbuds.jpg",
+        "description": "Made with high-quality yarn for soft and breathable feel.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "17",
+        "name": "Crochet curtains",
+        "price": 10000,
+        "category": "Home decor",
+        "image": "images/earbuds.jpg",
+        "description": "Brings cozy cottage vibes to your rooms.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "18",
+        "name": "Ella Ruffled Skirt",
+        "price": 2000,
+        "category": "Bottoms",
+        "image": "images/earbuds.jpg",
+        "description": "Elevate your fashion efforlessly with this versatile and elegant skirt.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "19",
+        "name": "Bag Charms",
+        "price": 150,
+        "category": "Accessories",
+        "image": "images/earbuds.jpg",
+        "description": "Elevate your accessory game in the best way.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "20",
+        "name": "Curtain holder",
+        "price": 500,
+        "category": "Home decor",
+        "image": "images/earbuds.jpg",
+        "description": "Available in bright colors to liven up your house.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "21",
+        "name": "Arm Warmer",
+        "price": 1800,
+        "category": "Sweaters",
+        "image": "images/earbuds.jpg",
+        "description": "Cute and cozy.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "22",
+        "name": "Ribbed Slim Fit Cardigan",
+        "price": 3500,
+        "category": "Cardigans",
+        "image": "images/earbuds.jpg",
+        "description": "Real defination of elegance.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "23",
+        "name": "Crochet Halter Top",
+        "price": 1200,
+        "category": "Tops",
+        "image": "images/earbuds.jpg",
+        "description": "Elevate your warm-weather wardrobes with these cute pieces.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "24",
+        "name": "Crochet Bloomer Shorts",
+        "price": 3500,
+        "category": "Bottoms",
+        "image": "images/earbuds.jpg",
+        "description": "Brings out the baddie in you.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "25",
+        "name": "Crochet Sweater Vest",
+        "price": 2500,
+        "category": "Sweaters",
+        "image": "images/earbuds.jpg",
+        "description": "Unisex nad elegant sweater vest.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "26",
+        "name": "crochet Rompers",
+        "price": 2500,
+        "category": "Wearables",
+        "image": "images/earbuds.jpg",
+        "description": "Perfect for any summer occassion.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "27",
+        "name": "Corset Dress",
+        "price": 10000,
+        "category": "Dresses",
+        "image": "images/earbuds.jpg",
+        "description": "Classy design, perfect for special occassions or casual outings.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "28",
+        "name": "Wavy Maxi Skirt",
+        "price": 6000,
+        "category": "Bottoms",
+        "image": "images/earbuds.jpg",
+        "description": "Designed to add a personal, handmade touch to your wardrobe.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "29",
+        "name": "Crochet Beret",
+        "price": 3500,
+        "category": "Hats",
+        "image": "images/earbuds.jpg",
+        "description": "Chic, with a combination of timeless style and artisanal crafmanship.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "30",
+        "name": "Wrap Sweater",
+        "price": 5000,
+        "category": "Sweaters",
+        "image": "images/earbuds.jpg",
+        "description": "High-quality, stylish and mordern.",
+        "inStock": true,
+        "flashSale": true
+    },
+    {
+        "id": "31",
+        "name": "Ribbed Chunky Cardigan",
+        "price": 4500,
+        "category": "Cardigans",
+        "image": "images/earbuds.jpg",
+        "description": "Warm, cozy, stylish and perfect for all occassions.",
+        "inStock": true,
+        "flashSale": true
+    }
+]
