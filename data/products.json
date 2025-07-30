@@ -74,8 +74,8 @@
         "name": "Crop Tops",
         "price": 1000,
         "category": "Tops",
-        "image": "images/crop tops.jpeg",
-        "description": "Perfect blend od simplicity and style.",
+        "image": "images/cropped.jpeg",
+        "description": "Perfect blend of simplicity and style.",
         "inStock": true,
         "flashSale": true
     },
@@ -131,9 +131,9 @@
     },
     {
         "id": "14",
-        "name": "Two-piece",
+        "name": "Two-piece: skirt",
         "price": 5000,
-        "category": "Wearables",
+        "category": "Two-pieces",
         "image": "images/two-piece.jpeg",
         "description": "This top and skirt two-piece set is elegant and unique, designed to enhance your style.",
         "inStock": true,
@@ -154,7 +154,7 @@
         "name": "Crochet Shirts",
         "price": 4000,
         "category": "Tops",
-        "image": "images/shirts.jpeg",
+        "image": "images/shirt.jpeg",
         "description": "Made with high-quality yarn for soft and breathable feel.",
         "inStock": true,
         "flashSale": false
@@ -253,7 +253,7 @@
         "id": "26",
         "name": "crochet Rompers",
         "price": 2500,
-        "category": "Wearables",
+        "category": "Rompers",
         "image": "images/rompers.jpeg",
         "description": "Perfect for any summer occassion.",
         "inStock": true,
@@ -341,11 +341,11 @@
     },
     {
         "id": "35",
-        "name": "Crochet Flower Bonquet",
+        "name": "Crochet Bikini Set",
         "price": 2500,
-        "category": "Gifts",
-        "image": "images/flowers.jpeg",
-        "description": "Perfect gift for a loved one; flowers that last forever.",
+        "category": "Beach-wear",
+        "image": "images/beach.jpeg",
+        "description": "This perfect skirt comes with a cover dress; you need this for that vacation.",
         "inStock": true,
         "flashSale": false
     }
